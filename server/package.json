@@ -1,0 +1,29 @@
+{
+  "name": "crud-server",
+  "version": "1.0.0",
+  "description": "crud app server buit using server-side-javascript you heard it right!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1234Amandeep/crud-git-htmx.git"
+  },
+  "keywords": [
+    "crud",
+    "js",
+    "node",
+    "git"
+  ],
+  "author": "Amandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1234Amandeep/crud-git-htmx/issues"
+  },
+  "homepage": "https://github.com/1234Amandeep/crud-git-htmx#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
